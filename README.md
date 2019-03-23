@@ -1,3 +1,7 @@
+# react-firebase-jest-example
+
+[![Build Status](https://travis-ci.com/GabLeRoux/react-firebase-jest-example.svg?branch=master)](https://travis-ci.com/GabLeRoux/react-firebase-jest-example)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +70,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## License
+
+[MIT](LICENSE.md) © [Gabriel Le Breton](https://gableroux.com)
+
